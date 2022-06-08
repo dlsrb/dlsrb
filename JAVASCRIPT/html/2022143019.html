@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>함수</title>
+     <script>
+        function adder(a, b) {//함수 작성
+          let sum;
+           sum = a + b;
+           return sum;
+        }
+        <script>
+       function evalParselntlsNaN() {
+           let res = eval("2*3+4*6"); //res는 30
+           document.write("eval(\"2*3+4*6\")는 " + res + "<br>");
+           let m = parseInt("32");
+          document.write("parseInt(\"32\")는 " + m + "<br>");
+           let n = parseInt("0x32");
+           document.write("parseInt(\"0x32\")는 " + n + "<br><br>");
+           }
+    //</script>
+</head>
+
+<body>
+    <script>
+    //      let n = adder(24567, 98374); // 함수 호출
+    //      document.write("24567 + 98374는 " + n + "<br>");
+    //        function myFnc(name, area) {
+            document.write("안녕하세요. " + name + "입니다", "<br><br>");
+            document.write("사는곳은 " + area + "입니다.", "<br><br>");
+        }
+        let a = "홍당무";
+        let b = "서울";
+        let c = "깍두기";
+        let d = "부산";
+        myFnc(a, b)
+        myFnc(c, d)
+        */
+       function testAvg(kor, math, eng)
+       {
+           let ang;
+           avg = (kor+math+eng)/3;
+           return avg;
+       }
+       let a=prompt("국어=",0);
+       let b=prompt("수학=",0);
+       let c=prompt("영어=",0);
+       a=parseInt(a);
+       b=parseInt(b);
+       c+parseInt(c);
+       let ang = testAvg(a,b,c);
+       document.write("국어 수학 영어 평균 " + avg);
+    evalParselntlsNaN();
+    function big(a, b){
+    if(a<b)
+    {
+        return b;
+    }
+    else if(a>b)
+    {
+        return a;
+    }
+    else
+    {
+        return (a +"같음")
+    }
+}
+    </script>
+    <script>
+        let b = big(62, 555);
+        document.write("큰수=", b);
+    </script>
+</body>
+</html>
