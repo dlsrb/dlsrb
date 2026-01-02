@@ -1,6 +1,9 @@
-# dlsrb
-인공지능과 데이터분석을 배우는 황인규입니다
+# 코딩 공부중...
+- sbb 개발
+- unity 게임 개발
+- python 공부
+- sql 공부
+- javascript 공부
+- html 공부
+- ??
 
-# 안녕하세요. 황인규입니다.
-- my repository 
-- 열심히 공부하겠습니다
