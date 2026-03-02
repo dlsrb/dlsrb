@@ -11,12 +11,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 </div>
-
+### TODO
+https://github.com/dlsrb/challenge-BossRaid
 <br clear="both">
 
 ![snake](https://raw.githubusercontent.com/dlsrb/dlsrb/output/github-contribution-grid-snake.svg)
