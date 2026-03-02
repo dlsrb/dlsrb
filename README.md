@@ -1,15 +1,21 @@
-## 🧬 Language Architecture
+## ⚙ Technology Footprint
 
-<p align="left">
-C# — Core Gameplay Logic
-</p>
-<p align="center">
-<img src="https://progress-bar.dev/95/?width=500&color=2f80ed"/>
-</p>
+<table>
+<tr>
+<td width="56%">
 
-<p align="left">
-Shader / Rendering
-</p>
-<p align="center">
-<img src="https://progress-bar.dev/5/?width=500&color=9b59b6"/>
-</p>
+### Primary Engine
+**C# — Unity Gameplay Core**
+
+- Event-Driven Architecture  
+- Single Decision Authority (Mediator)  
+- Execution layer contains no rule logic  
+
+</td>
+<td width="44%" align="center">
+
+<img src="Assets/Docs/Readme/language-usage.svg" width="420"/>
+
+</td>
+</tr>
+</table>
