@@ -2,7 +2,7 @@
 ### Tech
 <img src="https://skillicons.dev/icons?i=unity,cs,python,git,github" />
   
-<img align="right" height="150" src="물음표.png" height="150" width = "300"  />
+<img align="right" height="150" src="물음표.png" height="300" width = "300"  />
 
 ### 
 
