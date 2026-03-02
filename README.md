@@ -19,6 +19,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake](https://raw.githubusercontent.com/dlsrb/dlsrb/output/github-contribution-grid-snake.svg)
 
 ###
