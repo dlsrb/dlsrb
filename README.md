@@ -1,9 +1,2 @@
-# 코딩 공부중...
-- sbb 개발
-- unity 게임 개발
-- python 공부
-- sql 공부
-- javascript 공부
-- html 공부
-- ??
-
+![C#](https://img.shields.io/badge/C%23-85%25-purple)
+![Python](https://img.shields.io/badge/Python-15%25-blue)
