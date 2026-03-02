@@ -1,4 +1,4 @@
-<h2 align="left">안녕하세요? Unity를 중심으로 게임 프로토타입을 만들고, 구조(아키텍처) 설계를 꾸준히 연습 중입니다./h2>
+<h2 align="left"><h2>안녕하세요?</h2>
 ### Tech
 <img src="https://skillicons.dev/icons?i=unity,cs,python,git,github" />
   
